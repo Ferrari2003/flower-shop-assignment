@@ -7,6 +7,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 30px;
 }
 
 .text_style h3 {
@@ -34,41 +35,120 @@
     font-style: italic;
 }
 
-.main_flower{
-    margin-top:132px ;
+.main_flower {
+    margin-top: 132px;
 }
 
-.our_text{
+.our_text {
     text-align: center;
 }
-.our_text h4{
-    font-size: 30px; 
+
+.our_text h4 {
+    font-size: 30px;
     font-style: italic;
 }
-.our_text p{
+
+.our_text p {
     color: gray;
 }
-.flower_style{
+
+.flower_style {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 20px;
 }
-.bg-style{
-    background-color: #a7216224;
+
+.bg-style {
+    background-color: #a7216234;
     padding-top: 50px;
     border-radius: 100px 100px 0 0;
 }
-.bg-style1{
+
+.bg-style1 {
     background-color: #0598a027;
     border-radius: 100px 100px 0 0;
 }
-.bg-style2{
+
+.bg-style2 {
     background-color: #477d1120;
     border-radius: 100px 100px 0 0;
 }
-.p_style{
+
+.p_style {
     border-bottom: 2px solid black;
     margin: 30%;
     text-align: center;
+}
+
+.main_optinal {
+    background-color: #2727271f;
+    margin-left: 24%;
+    margin-right: 24%;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.optional_section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.optional_section p {
+    color: #272727d6;
+}
+
+.icon_style {
+    padding: 30px;
+    text-align: center;
+    font-style: italic;
+}
+
+.main_top_space {
+    margin-top: 150px;
+    background-color: #e554730a;
+    margin-bottom: 150px;
+}
+
+.main_text_style {
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+}
+
+.instagram_icon{
+    width: 30px;
+    
+}
+
+.pragrph_tag {
+    color: gray;
+    font-size: 18px;
+}
+
+.one_tag_style {
+    color: #E55473;
+}
+
+.Instagram_section {
+    text-align: center;
+}
+
+.Instagram_section h3 {
+    font-style: italic;
+    font-size: 35px;
+}
+
+.Instagram_section p {
+    font-style: italic;
+    color: gray;
+}
+
+.four_flower_style {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
 }
