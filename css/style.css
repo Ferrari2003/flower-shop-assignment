@@ -1,0 +1,11 @@
+.main{
+    background-color:#e554731d ;
+    margin-top: 0;
+}
+
+.header_section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
